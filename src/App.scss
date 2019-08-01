@@ -1,9 +1,18 @@
 .App {
   text-align: center;
+
+}
+
+.main{
+  margin-top:20vh;
 }
 
 .Nav-link {
   padding: 2rem;
+  border-radius:5px;
+  &:hover{
+    text-decoration: none;
+  }
 }
 
 .nav-item {
